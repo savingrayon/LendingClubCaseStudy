@@ -54,7 +54,7 @@ I would like to express my sincere gratitude to my mentors and colleague Puneet 
 
 
 ## Contact
-Created by Manohar Ganesh Kulkarni [@gmayurklk]  and Puneet Mathur[@savingrayon]
+Created by Manohar Ganesh Kulkarni [@mayurklk]  and Puneet Mathur[@savingrayon]
 
 
 <!-- Optional -->
