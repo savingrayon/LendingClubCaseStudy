@@ -1,7 +1,7 @@
-## Lending Club Case Study** - 
+## Project Name - 
 Lending Club Project details
 
-## Project Description** -
+## Project Description -
 The project focuses on conducting Exploratory Data Analysis (EDA) for a consumer finance company that specializes in lending loans. The aim is to analyze past loan data from 2007 to 2011 to identify patterns that could predict whether an applicant is likely to default. The dataset contains details about borrowers who either fully repaid the loan, are currently paying it, or defaulted (charged-off). By identifying key variables that influence the likelihood of default, the company can optimize loan approval decisions and mitigate financial losses due to credit risk. The insights from this analysis will help the company reduce credit losses and enhance its risk assessment models.
 This project will involve univariate, bivariate, and multivariate analysis along with relevant visualizations to extract meaningful insights.
 
